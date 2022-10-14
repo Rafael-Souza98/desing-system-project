@@ -1,4 +1,4 @@
-import {CheckBox, CheckBoxProps} from './CHeckBox';
+import {CheckBox, CheckBoxProps} from './Checkbox';
 import { Meta, StoryObj } from '@storybook/react';
 import {Text} from '../Text/Text'
 
